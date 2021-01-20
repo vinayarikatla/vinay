@@ -27,7 +27,3 @@ docker-compose down
 - Nginx server: http://localhost:8080
 - Apache server: http://localhost:8081
 - Load balancer: http://localhost:8082
-
-## Reference
-
-[BogoToBogo](https://www.bogotobogo.com/DevOps/Docker/Docker-Compose-Nginx-Reverse-Proxy-Multiple-Containers.php)
